@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=1TewCPi92ro"""
 saturday_message = """ :letsgo: :letsgo: :letsgo: 
 :video_game: :video_game: :video_game: 
 https://www.youtube.com/watch?v=Y962JdA32lk"""
-activation_message = """>>> Bot is *ONLINE* -- Hacking the mainframe...
+activation_message = """>>> Bot is *ONLINE*
    Auto post Mufasa ------ Friday, 8 AM
    Auto post Futurama ---- Saturday, 7 PM"""
 
